@@ -1,2 +1,2 @@
-# AplicacaoAndroid-MAPS
-Aplicação Mapas ensinado em sala.
+# Android-Maps
+Google Maps no Android Studio
